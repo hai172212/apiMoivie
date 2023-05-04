@@ -25,6 +25,12 @@ export default function NavBarComponent() {
                         <Link href="/movies" className="nav-link">
                             Movies
                         </Link>
+                        <Link href="/npm" className="nav-link">
+                           dataTable
+                        </Link>
+                        <Link href="/npm13" className="nav-link">
+                           dataTable
+                        </Link>
                     </Nav>
                   
                 </Navbar.Collapse>
